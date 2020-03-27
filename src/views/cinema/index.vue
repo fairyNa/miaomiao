@@ -13,7 +13,9 @@
 					    特色 <i class="iconfont icon-lower-triangle"></i>
 				    </div>
 			    </div>
+				<keep-alive>
                 <cilist></cilist>
+				</keep-alive>
        	    </div>
        <tabBar></tabBar>
     </div>
